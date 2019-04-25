@@ -140,4 +140,3 @@ Sysproxy ()            https://github.com/Noisyfox/sysproxy
 [Visual C++ 2015 Redistributable]:     https://www.microsoft.com/en-us/download/details.aspx?id=53840
 [GPLv3]:        https://github.com/shadowsocks/shadowsocks-windows/blob/master/LICENSE.txt
 
-test
